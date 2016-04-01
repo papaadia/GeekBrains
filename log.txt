@@ -1,0 +1,5 @@
+
+Right answer=T	Player answer=H
+Right answer=T	Player answer=H
+Right answer=H	Player answer=H
+Right answer=H	Incorrecting answer
